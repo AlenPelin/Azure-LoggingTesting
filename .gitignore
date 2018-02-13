@@ -1,0 +1,6 @@
+*.user
+.vs/
+LoggingTesting/bin/
+LoggingTesting/obj/
+LoggingTesting/Properties/PublishProfiles/
+packages/
